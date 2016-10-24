@@ -6,4 +6,4 @@ you can pull the latest version and build to your device / PC
 ## download
 You can download a built apk in [Baby Questions.apk]
 
-[Baby Questions.apk]: <madprogrammerstudios.com/demos/BabyQuestions.apk>
+[Baby Questions.apk]: <http://madprogrammerstudios.com/demos/BabyQuestions.apk>
