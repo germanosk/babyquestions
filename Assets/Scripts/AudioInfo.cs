@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
+using System;
 
-[System.Serializable]
+[Serializable]
 public class AudioInfo
 {
     public AudioClip audio;
